@@ -1,0 +1,64 @@
+{
+  "schema": 1,
+  "source": "tova-explore",
+  "generatedAt": "2026-11-25T08:00:43.969Z",
+  "slug": "beyond-dance",
+  "name": "Beyondance Co Ltd",
+  "city": "Christchurch",
+  "industry": {
+    "label": "Music & dance schools",
+    "niche": "music & dance schools",
+    "group": "Fitness & education"
+  },
+  "contact": {
+    "phone": "+64220395586",
+    "email": "zhangyuting819@gmail.com",
+    "address": "35 Acheron Dr, Christchurch"
+  },
+  "social": {
+    "facebook": "https://www.facebook.com/108103591410522"
+  },
+  "about": {
+    "tagline": "Course Booking"
+  },
+  "before": {
+    "url": "http://www.beyond-dance.com/",
+    "domain": "beyond-dance.com",
+    "finalUrl": "http://www.beyond-dance.com/",
+    "title": "Be Inspired, Get Ahead Of Trend",
+    "pages": 17,
+    "score": 49,
+    "assessedAt": "2026-11-12T07:45:34.537Z",
+    "issues": [
+      {
+        "id": "no-https",
+        "title": "Not served over HTTPS",
+        "evidence": "Final URL is http://www.beyond-dance.com/. Browsers label this site \"Not secure\"."
+      },
+      {
+        "id": "no-contact-path",
+        "title": "No easy way to get in touch",
+        "evidence": "No tap-to-call link and no enquiry form on the homepage."
+      },
+      {
+        "id": "no-meta-desc",
+        "title": "No search description",
+        "evidence": "No meta description, so Google chooses random page text for search results."
+      },
+      {
+        "id": "no-schema",
+        "title": "No local-business search markup",
+        "evidence": "No structured data, so Google has less to show for the business."
+      }
+    ],
+    "screenshot": "screenshots/before-desktop.jpg"
+  },
+  "ours": {
+    "pagesUrl": "https://tova-studio.github.io/beyondance-co/",
+    "repoUrl": "https://github.com/tova-studio/beyondance-co",
+    "generator": "claude",
+    "accent": "#b7946e",
+    "screenshot": "screenshots/after-desktop.jpg",
+    "publishedAt": "2026-11-25T08:00:43.970Z"
+  }
+}
